@@ -53,6 +53,7 @@ body {
     transform: scale(1);
   }
 }
+
 .scroll-reveal {
   view-timeline-name: --section-reveal;
   view-timeline-axis: block;
@@ -132,3 +133,4 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover,
 p:hover, span:hover, li:hover, a:hover {
   transform: translateY(-1px);
 }
+

@@ -20,7 +20,9 @@ export default function Hero() {
         <div className="relative group">
           <div className="absolute -inset-1 bg-gradient-to-r from-red-600 to-pink-600 rounded-full blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
           <div className="relative w-64 h-64 rounded-full overflow-hidden border-2 border-white dark:border-zinc-800 shadow-2xl">
-            <Image src="/Manjeet.png" alt="Profile" fill className="object-cover object-top" priority />
+            
+            <Image src="/ManjeetPic.png" alt="Profile" fill className="object-cover object-top" priority />
+
           </div>
         </div>
       </div>
